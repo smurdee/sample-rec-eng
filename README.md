@@ -1,5 +1,5 @@
 # sample-rec-eng
-
+simple recommendation engine to match persons MBTI to activity type
 ## Run
 
 1. Clone this repository
